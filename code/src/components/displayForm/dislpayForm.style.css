@@ -1,0 +1,34 @@
+.display-form {
+    width: 300px;
+    height: 700px;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgb(155, 154, 154);
+    margin-top: 100px;
+    overflow: scroll;
+    padding: 20px;
+}
+
+.display-form-section {
+    position: relative;
+}
+
+.display-form-value {
+    font-weight: 400;
+}
+
+.dispaly-form-header-section {
+    height: 50px;
+    position: relative;
+}
+
+.display-form-header {
+    background-color: black;
+    color: white;
+    font-size: 0.95rem;
+    height: 50px;
+    /* width: 100%; */
+    display: flex;
+    align-items: center;
+    position: sticky;
+}
